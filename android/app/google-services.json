@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382065874486",
+    "project_id": "dailyhungryheros-7e5db",
+    "storage_bucket": "dailyhungryheros-7e5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382065874486:android:2ffc8bcfdade165cda6a97",
+        "android_client_info": {
+          "package_name": "com.example.dailyhungryheros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382065874486-vqq7l1raks4bf2jbjohgshrqco5uhubc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq97R9HhWH4SwKKI_sh_BUgBCXhuunao0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382065874486-vqq7l1raks4bf2jbjohgshrqco5uhubc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
